@@ -1,6 +1,6 @@
 {
-  "name": "pptr-testing-library",
-  "version": "0.0.0-development",
+  "name": "@kensho/pptr-testing-library",
+  "version": "0.6.0",
   "description": "puppeteer + dom-testing-library",
   "main": "./dist/index.js",
   "scripts": {
